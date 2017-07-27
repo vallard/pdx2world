@@ -1,0 +1,19 @@
+{
+  "request": {
+    "passengers": {
+      "adultCount": 1
+    },
+    "slice": [
+      {
+        "origin": "PDX",
+        "destination": "FCO",
+        "date": "2018-01-02"
+      },
+      {
+        "origin": "FCO",
+        "destination": "PDX",
+        "date": "2018-01-31"
+      }
+    ]
+  }
+}
